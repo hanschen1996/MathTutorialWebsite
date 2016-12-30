@@ -1,7 +1,5 @@
 # MathTutorialWebsite
-introduction: a website that practices HTML & CSS, with no backend involved
-
-This is a website that practicess HTML section organization and CSS styling. 
+Introduction: This is a website that practicess HTML section organization and CSS styling. 
 
 Instructions:
 
