@@ -7,4 +7,4 @@ Instructions:
 
 -or visit www.junyechen.thecompletewebhosting.com/Math-Tutorial-Website
 
-Credits to: Issam, the instructor of "the Complete Web Development Course" (http://developmentisland.com/)
+Credits to: Issam, the instructor of Udemy course: the Complete Web Development (http://developmentisland.com/)
